@@ -149,6 +149,8 @@ a, a:hover{
     font-size: 18px;
     font-weight: 700;
     margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
 }
 
 .dsmovie-form{
